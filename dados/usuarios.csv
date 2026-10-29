@@ -1,0 +1,11 @@
+id,nome,sexo,cpf,nascimento,email,senha,endereco,complemento,bairro,cidade,estado,cep
+U001,Ana Beatriz Moura,F,000.000.000-01,1980-04-11,ana.moura@example.test,livros123,"Rua das Letras, 101",Apto. 12,Jardim das Páginas,São Paulo,SP,00000-101
+U002,Pedro Henrique Vieira,M,000.000.000-02,1981-07-12,pedro.vieira@example.test,livros123,"Avenida dos Livros, 202",,Centro Literário,Campinas,SP,00000-202
+U003,Marina Costa Lima,F,000.000.000-03,1982-10-13,marina.lima@example.test,acervo003,"Rua do Capítulo, 303",Casa 2,Jardim da Leitura,Curitiba,PR,00000-303
+U004,Rafael Almeida Nunes,M,000.000.000-04,1983-01-14,rafael.nunes@example.test,acervo004,"Rua da Tipografia, 404",,Vila do Papel,Belo Horizonte,MG,00000-404
+U005,Helena Ribeiro Torres,F,000.000.000-05,1984-04-15,helena.torres@example.test,acervo005,"Travessa das Estantes, 505",Bloco B,Bairro dos Autores,Porto Alegre,RS,00000-505
+U006,Lucas Gabriel Rocha,M,000.000.000-06,1985-07-16,lucas.rocha@example.test,acervo006,"Rua das Bibliotecas, 606",,Parque dos Contos,Recife,PE,00000-606
+U007,Sofia Martins Prado,F,000.000.000-07,1986-10-17,sofia.prado@example.test,acervo007,"Alameda dos Poetas, 707",Apto. 7,Vila dos Poemas,Salvador,BA,00000-707
+U008,Daniel Ferreira Reis,M,000.000.000-08,1987-01-18,daniel.reis@example.test,acervo008,"Rua do Romance, 808",,Jardim Histórico,Goiânia,GO,00000-808
+U009,Clara Oliveira Campos,F,000.000.000-09,1988-04-19,clara.campos@example.test,acervo009,"Avenida dos Clássicos, 909",Casa A,Centro das Artes,Florianópolis,SC,00000-909
+U010,Gustavo Barbosa Melo,M,000.000.000-10,1989-07-20,gustavo.melo@example.test,acervo010,"Praça do Saber, 1000",,Cidade Nova,Brasília,DF,00000-100

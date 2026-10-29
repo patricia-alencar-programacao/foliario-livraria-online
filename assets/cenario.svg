@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1050" preserveAspectRatio="xMidYMid slice">
+<rect width="1600" height="1050" fill="#12304c"/>
+<circle cx="70" cy="-48" r="290" fill="#1d4969"/><circle cx="70" cy="-48" r="247" fill="none" stroke="#c28c4d" stroke-width="7" opacity=".64"/>
+<circle cx="1580" cy="-120" r="240" fill="#c27846" opacity=".7"/>
+<g transform="translate(280 255) rotate(24)"><rect x="-110" y="-162" width="300" height="380" rx="27" fill="#e4b484"/><rect x="-125" y="-180" width="290" height="374" rx="23" fill="#af663c"/><rect x="-115" y="-155" width="285" height="346" rx="20" fill="#cf884e"/><path d="M-104 141H159V182H-104Q-136 161 -104 141Z" fill="#e7d7b7"/><path d="M-111 140H156M-108 151H157" stroke="#ba8254" stroke-width="5"/><rect x="-35" y="-96" width="114" height="85" rx="8" fill="#9f4638" opacity=".75"/></g>
+<g transform="translate(420 881) rotate(10)"><rect x="-173" y="-92" width="399" height="111" rx="28" fill="#d9a742"/><path d="M-150 -57H191V-5H-150Z" fill="#e0d6b4"/><rect x="-146" y="-186" width="373" height="127" rx="26" fill="#2d6a82"/><path d="M-119 -97H199V-61H-119Z" fill="#eee0ba"/><path d="M-138 -183L216 -137" stroke="#0c4364" stroke-width="7" opacity=".55"/></g>
+<g transform="translate(1065 820) rotate(-8)"><path d="M-232 -34Q-114 -96 0 -15Q118 -96 234 -34V195Q117 137 0 212Q-118 137 -232 195Z" fill="#b76641"/><path d="M-235 -76Q-114 -150 0 -58Q118 -149 235 -76V171Q118 107 0 191Q-117 106 -235 171Z" fill="#e5dac0"/><path d="M0 -58V190" stroke="#c4b28b" stroke-width="6"/><path d="M-217 -53Q-106 -112 -16 -35M18 -35Q115 -109 215 -53" stroke="#c3af8c" stroke-width="3" fill="none"/></g>
+<g fill="none" stroke="#d0a052" stroke-width="6" opacity=".7"><path d="M117 606Q189 525 257 606T402 609"/><path d="M1132 518Q1201 447 1255 517T1418 540T1533 604"/><path d="M1037 335Q1093 284 1148 319"/></g>
+<g fill="#d3994a" opacity=".85"><rect x="742" y="115" width="35" height="35" transform="rotate(-34 742 115)"/><rect x="1370" y="302" width="33" height="33" transform="rotate(16 1370 302)"/><rect x="912" y="655" width="36" height="36" transform="rotate(45 912 655)"/><circle cx="1358" cy="430" r="25"/></g>
+<path d="M950 0V260Q1061 312 1140 248V0" fill="#225a77" opacity=".55"/><path d="M1032 0V285" stroke="#0d3b58" stroke-width="6"/>
+</svg>

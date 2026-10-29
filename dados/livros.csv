@@ -1,0 +1,51 @@
+id,titulo,autores,sinopse,isbn,paginas,preco,avaliacao,categoria,capa
+L001,Dom Casmurro,Machado de Assis,"Bentinho revisita a juventude e seu casamento com Capitu numa narrativa de memória, dúvida e ironia.",9799900000012,264,58.90,4.8,Literatura brasileira,assets/capas/livro-001.svg
+L002,Memórias Póstumas de Brás Cubas,Machado de Assis,Um narrador defunto conta a própria vida com humor mordaz e uma visão desconcertante da sociedade.,9799900000029,337,77.50,4.5,Literatura brasileira,assets/capas/livro-002.svg
+L003,O Cortiço,Aluísio Azevedo,"A convivência num cortiço carioca revela conflitos sociais, desejos e ambições no Brasil oitocentista.",9799900000036,410,103.90,4.2,Literatura brasileira,assets/capas/livro-003.svg
+L004,Vidas Secas,Graciliano Ramos,Uma família de retirantes atravessa a aridez do sertão em busca de sobrevivência e dignidade.,9799900000043,483,122.00,4.9,Literatura brasileira,assets/capas/livro-004.svg
+L005,Grande Sertão: Veredas,João Guimarães Rosa,Riobaldo narra suas travessias e dilemas morais numa reinvenção extraordinária da linguagem.,9799900000050,556,40.00,4.6,Literatura brasileira,assets/capas/livro-005.svg
+L006,A Hora da Estrela,Clarice Lispector,"A história de Macabéa questiona a existência, a linguagem e o olhar de quem narra.",9799900000067,629,66.90,4.3,Literatura brasileira,assets/capas/livro-006.svg
+L007,Macunaíma,Mário de Andrade,Um herói contraditório atravessa paisagens e mitos numa narrativa inventiva sobre o Brasil.,9799900000074,702,85.50,5.0,Literatura brasileira,assets/capas/livro-007.svg
+L008,Iracema,José de Alencar,"Romance indianista que entrelaça amor, paisagem e uma interpretação literária das origens do Ceará.",9799900000081,775,104.90,4.7,Literatura brasileira,assets/capas/livro-008.svg
+L009,Capitães da Areia,Jorge Amado,"Meninos que vivem nas ruas de Salvador enfrentam abandono, amizade e as desigualdades sociais.",9799900000098,848,130.00,4.4,Literatura brasileira,assets/capas/livro-009.svg
+L010,São Bernardo,Graciliano Ramos,Paulo Honório reconstrói a ascensão econômica e o fracasso afetivo de sua trajetória.,9799900000104,161,48.00,4.1,Literatura brasileira,assets/capas/livro-010.svg
+L011,O Ateneu,Raul Pompeia,A experiência de Sérgio num internato se transforma em crítica dos poderes e convenções sociais.,9799900000111,234,67.90,4.8,Literatura brasileira,assets/capas/livro-011.svg
+L012,Orgulho e Preconceito,Jane Austen,"Elizabeth Bennet confronta expectativas sociais, juízos precipitados e possibilidades do amor.",9799900000128,307,93.50,4.5,Literatura estrangeira,assets/capas/livro-012.svg
+L013,Jane Eyre,Charlotte Brontë,"Uma jovem governanta enfrenta adversidades enquanto busca independência, afeto e integridade.",9799900000135,380,112.90,4.2,Literatura estrangeira,assets/capas/livro-013.svg
+L014,O Morro dos Ventos Uivantes,Emily Brontë,"Paixão, ressentimento e vingança atravessam gerações numa paisagem de ventos e solidão.",9799900000142,453,131.00,4.9,Literatura estrangeira,assets/capas/livro-014.svg
+L015,Os Miseráveis,Victor Hugo,"Jean Valjean procura redenção em meio à pobreza, à justiça e às convulsões da França.",9799900000159,526,56.00,4.6,Literatura estrangeira,assets/capas/livro-015.svg
+L016,Madame Bovary,Gustave Flaubert,Emma Bovary sonha com uma vida romântica distante da rotina e das restrições burguesas.,9799900000166,599,75.90,4.3,Literatura estrangeira,assets/capas/livro-016.svg
+L017,Anna Kariênina,Liev Tolstói,"Paixão, família e convenções sociais entram em choque na Rússia do século XIX.",9799900000173,672,94.50,5.0,Literatura estrangeira,assets/capas/livro-017.svg
+L018,Crime e Castigo,Fiódor Dostoiévski,Um estudante atormentado enfrenta as consequências morais e psicológicas de um crime.,9799900000180,745,120.90,4.7,Literatura estrangeira,assets/capas/livro-018.svg
+L019,Os Irmãos Karamázov,Fiódor Dostoiévski,"Conflitos familiares se abrem em questões sobre fé, liberdade, culpa e responsabilidade.",9799900000197,818,139.00,4.4,Literatura estrangeira,assets/capas/livro-019.svg
+L020,Moby Dick,Herman Melville,A perseguição do capitão Ahab a uma baleia se torna uma reflexão sobre obsessão e destino.,9799900000203,891,57.00,4.1,Literatura estrangeira,assets/capas/livro-020.svg
+L021,O Retrato de Dorian Gray,Oscar Wilde,Um retrato singular torna visíveis os custos da vaidade e da busca pelo prazer sem limites.,9799900000210,204,83.90,4.8,Literatura estrangeira,assets/capas/livro-021.svg
+L022,Frankenstein,Mary Shelley,"A criação de Victor Frankenstein suscita perguntas sobre ciência, dever e abandono.",9799900000227,277,102.50,4.5,Literatura estrangeira,assets/capas/livro-022.svg
+L023,Ilíada,Homero,"A cólera de Aquiles situa coragem, perda e destino no centro da guerra de Troia.",9799900000234,350,121.90,4.2,Clássicos,assets/capas/livro-023.svg
+L024,Odisseia,Homero,Ulisses enfrenta mares e perigos numa longa jornada de retorno ao lar.,9799900000241,423,46.00,4.9,Clássicos,assets/capas/livro-024.svg
+L025,Eneida,Virgílio,Eneias abandona Troia e cumpre uma missão ligada à origem lendária de Roma.,9799900000258,496,65.00,4.6,Clássicos,assets/capas/livro-025.svg
+L026,A Divina Comédia,Dante Alighieri,"Uma viagem poética pelo Inferno, Purgatório e Paraíso investiga justiça e transcendência.",9799900000265,569,84.90,4.3,Clássicos,assets/capas/livro-026.svg
+L027,Metamorfoses,Ovídio,Mitos greco-romanos encontram unidade na transformação dos seres e do mundo.,9799900000272,642,110.50,5.0,Clássicos,assets/capas/livro-027.svg
+L028,Édipo Rei,Sófocles,Uma investigação sobre a peste de Tebas conduz Édipo à revelação de seu próprio destino.,9799900000289,715,129.90,4.7,Clássicos,assets/capas/livro-028.svg
+L029,Os Lusíadas,Luís de Camões,Epopeia que celebra a viagem portuguesa às Índias e dialoga com a tradição clássica.,9799900000296,788,47.00,4.4,Poesia,assets/capas/livro-029.svg
+L030,Mensagem,Fernando Pessoa,"Poemas de imaginação histórica e simbólica sobre Portugal, seus mitos e expectativas.",9799900000302,861,73.00,4.1,Poesia,assets/capas/livro-030.svg
+L031,As Flores do Mal,Charles Baudelaire,"Versos que exploram beleza, decadência, desejo e a experiência da modernidade.",9799900000319,174,92.90,4.8,Poesia,assets/capas/livro-031.svg
+L032,Alguma Poesia,Carlos Drummond de Andrade,"A estreia poética de Drummond une ironia, observação cotidiana e experimentação de linguagem.",9799900000326,247,111.50,4.5,Poesia,assets/capas/livro-032.svg
+L033,Histórias,Heródoto,"Relatos de povos e conflitos que articulam investigação histórica, viagem e tradição oral.",9799900000333,320,137.90,4.2,História,assets/capas/livro-033.svg
+L034,História da Guerra do Peloponeso,Tucídides,Análise dos conflitos entre Atenas e Esparta com atenção às causas e decisões humanas.,9799900000340,393,55.00,4.9,História,assets/capas/livro-034.svg
+L035,A Guerra dos Judeus,Flávio Josefo,Narrativa antiga da guerra judaico-romana e da destruição de Jerusalém no século I.,9799900000357,466,74.00,4.6,História,assets/capas/livro-035.svg
+L036,A Vida dos Doze Césares,Suetônio,"Biografias dos primeiros imperadores romanos, repletas de episódios políticos e privados.",9799900000364,539,100.90,4.3,História,assets/capas/livro-036.svg
+L037,A Cidade Antiga,Numa Denis Fustel de Coulanges,Estudo clássico das instituições e da religião nas cidades gregas e romanas.,9799900000371,612,119.50,5.0,História,assets/capas/livro-037.svg
+L038,A República,Platão,"Um diálogo sobre justiça, educação, governo e a organização ideal da cidade.",9799900000388,685,138.90,4.7,Filosofia,assets/capas/livro-038.svg
+L039,Ética a Nicômaco,Aristóteles,"Investigação sobre virtude, prudência, amizade e as condições de uma vida feliz.",9799900000395,758,63.00,4.4,Filosofia,assets/capas/livro-039.svg
+L040,Meditações,Marco Aurélio,"Reflexões pessoais de um imperador estoico sobre dever, caráter e impermanência.",9799900000401,831,82.00,4.1,Filosofia,assets/capas/livro-040.svg
+L041,Discurso do Método,René Descartes,Apresentação de um caminho de investigação baseado na dúvida e na clareza do raciocínio.,9799900000418,144,101.90,4.8,Filosofia,assets/capas/livro-041.svg
+L042,Crítica da Razão Pura,Immanuel Kant,"Exame das possibilidades, estruturas e limites do conhecimento humano.",9799900000425,217,127.50,4.5,Filosofia,assets/capas/livro-042.svg
+L043,O Príncipe,Nicolau Maquiavel,"Tratado conciso sobre a conquista, o exercício e a conservação do poder político.",9799900000432,290,45.90,4.2,Filosofia,assets/capas/livro-043.svg
+L044,A Origem das Espécies,Charles Darwin,Obra fundamental que apresenta a seleção natural como mecanismo da evolução biológica.,9799900000449,363,64.00,4.9,Ciência,assets/capas/livro-044.svg
+L045,Diálogo sobre os Dois Máximos Sistemas do Mundo,Galileu Galilei,Debate em forma de diálogo sobre as interpretações geocêntrica e heliocêntrica do cosmos.,9799900000456,436,90.00,4.6,Ciência,assets/capas/livro-045.svg
+L046,Uma Breve História do Tempo,Stephen Hawking,"Introdução aos grandes problemas da cosmologia, do Big Bang aos buracos negros.",9799900000463,509,109.90,4.3,Ciência,assets/capas/livro-046.svg
+L047,Cosmos,Carl Sagan,"Uma jornada pela astronomia, pela história da ciência e pelo lugar humano no universo.",9799900000470,582,128.50,5.0,Ciência,assets/capas/livro-047.svg
+L048,O Que É a Vida?,Erwin Schrödinger,Reflexões pioneiras sobre a natureza física dos organismos e da hereditariedade.,9799900000487,655,53.90,4.7,Ciência,assets/capas/livro-048.svg
+L049,A Vida de Samuel Johnson,James Boswell,Retrato minucioso do escritor inglês Samuel Johnson por meio de conversas e episódios.,9799900000494,728,72.00,4.4,Biografias,assets/capas/livro-049.svg
+L050,Confissões,Agostinho de Hipona,"Narrativa autobiográfica e espiritual sobre memória, busca da verdade e conversão.",9799900000500,801,91.00,4.1,Biografias,assets/capas/livro-050.svg

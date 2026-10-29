@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 332 478" role="img" aria-label="Capa demonstrativa de A Cidade Antiga">
+<rect width="332" height="478" rx="2" fill="#15263b"/>
+<path d="M20 20H312V458H20Z" fill="none" stroke="#e8a96c" stroke-opacity=".35" stroke-width="2"/>
+<path d="M166 0V30M166 448V478" stroke="#e8a96c" stroke-width="2" opacity=".65"/>
+<text x="166" y="39" text-anchor="middle" letter-spacing="3.5" font-size="10" font-family="Arial, sans-serif" fill="#e8a96c">F O L I Á R I O   ·   E D I Ç Ã O   D E M O</text>
+<text x="166" y="82.5" font-family="Georgia, serif" font-size="39" font-weight="bold" text-anchor="middle" fill="#e9ca95">A CIDADE</text><text x="166" y="127.5" font-family="Georgia, serif" font-size="39" font-weight="bold" text-anchor="middle" fill="#e9ca95">ANTIGA</text>
+<path d="M95 220H237" stroke="#e8a96c" stroke-width="2" opacity=".8"/>
+<path d="M163 426C126 349 157 286 203 259" fill="none" stroke="#e8a96c" stroke-width="7"/><ellipse cx="135" cy="381" rx="34" ry="13" transform="rotate(-30 135 381)" fill="#e9ca95" opacity=".85"/><ellipse cx="187" cy="351" rx="34" ry="13" transform="rotate(32 187 351)" fill="#e9ca95" opacity=".85"/><ellipse cx="136" cy="321" rx="34" ry="13" transform="rotate(-31 136 321)" fill="#e9ca95" opacity=".85"/><ellipse cx="199" cy="288" rx="34" ry="13" transform="rotate(30 199 288)" fill="#e9ca95" opacity=".85"/>
+<text x="166" y="449" text-anchor="middle" font-size="12" font-family="Arial, sans-serif" font-weight="bold" letter-spacing="1.1" fill="#e9ca95">NUMA DENIS FUSTEL DE COULANGES</text>
+</svg>
